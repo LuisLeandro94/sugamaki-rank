@@ -1,27 +1,12 @@
-# How to Build Your First Discord Bot with Node.js
+# Sung Mahi Tower Bot made with Node.js
 
-Michiel Mulders shows you how to install and set up a new Discord bot, which is made easier thanks to the API offered by the Discord.js package.
-
-Link to article on SitePoint: [https://www.sitepoint.com/discord-bot-node-js/](https://www.sitepoint.com/discord-bot-node-js/)
-
-## Requirements
-
-- [Node.js](http://nodejs.org/)
-- [Discord](https://discordapp.com/) account
-
-## Installation Steps (if applicable)
-
-1. Clone repo
-2. Run `npm install`
-3. Add Discord credentials in a `.env` file
-3. Run `node index.js`
-4. Interact with your Discord bot via your web browser
+Discord bot created to be used with a Web Scraper made in Node.js to scrape the Metin2 Website, listen for changes to the Tower of Sung Mahi rank and alert the server users for changes on the first place of that rank, for each floor.
 
 ## License
 
-SitePoint's code archives and code examples are licensed under the MIT license.
+LuisLeandro94's code archives and code examples are licensed under the MIT license.
 
-Copyright © 2020 SitePoint
+Copyright © 2020 LuisLeandro94
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
